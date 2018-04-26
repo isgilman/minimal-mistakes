@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Ian Gilman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Evolutionary biologist and botanist"
-  location         : "PhD Student at Yale University"
+  bio              : "PhD student, evolutionary biologist and botanist"
+  location         : "Yale University"
   email            : "ian.gilman@yale.edu"
   uri              :
   bitbucket        :
