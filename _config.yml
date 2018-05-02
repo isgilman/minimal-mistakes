@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Ian Gilman"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Puffball.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student, evolutionary biologist and botanist"
   location         : "Yale University"
   email            : "ian.gilman@yale.edu"
