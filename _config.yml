@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "isgilman"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -86,7 +86,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "https://www.flickr.com/photos/142736247@N08/"
   facebook         :
   foursquare       :
   github           : "isgilman"
