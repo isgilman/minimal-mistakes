@@ -8,6 +8,8 @@
 # Site Settings
 locale                   : "en"
 title                    : "Ian S Gilman"
+header:
+   overlay_image: "/assets/images/OR_coast.JPG"
 title_separator          : "-"
 name                     : "Ian S Gilman"
 description              : "Evolutionary biologist and botanist"
@@ -244,7 +246,5 @@ defaults:
       comments: # true
       share: true
       related: true
-    header:
-      overlay_image: "/assets/images/OR_coast.JPG"
 
 remote_theme: "mmistakes/minimal-mistakes"
