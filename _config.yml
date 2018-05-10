@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Ian S Gilman"
 header:
-   overlay_image: "/assets/images/OR_coast.JPG"
+   image: /assets/images/OR_coast.JPG
 title_separator          : "-"
 name                     : "Ian S Gilman"
 description              : "Evolutionary biologist and botanist"
