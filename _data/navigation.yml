@@ -2,8 +2,8 @@
 main:
   - title: "Vitae"
     url: https://isgilman.github.io/assets/PDFs/Gilman_CV.pdf
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"
+    url: https://isgilman.github.io/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
