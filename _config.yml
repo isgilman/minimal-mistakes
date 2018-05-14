@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Li Zeng"
+title                    : "Ian"
 title_separator          : "-"
-name                     : "Li Zeng"
-description              : "Powered by Jekyll and minimal-mistakes theme"
+name                     : "Ian S"
+description              : "This is the description"
 url                      : #"https://zengliX.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "zengliX/zengliX.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "isgilman/isgilman.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Li Zeng"
-  avatar           : "/others/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Biostatistics Ph.D at Yale"
+  name             : "Ian S Gilman"
+  avatar           : "/assets/images/OR_coast.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Ecology and Evolutionary Biology Ph.D Student at Yale Univeristy"
   location         : "New Haven, CT"
-  email            : "li.zeng@yale.edu"
+  email            : "ian.gilman@yale.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zengliX"
+  github           : "isgilman"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "li-zeng-154a2551?trk=nav_responsive_tab_profile_pic"
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
