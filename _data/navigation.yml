@@ -3,9 +3,9 @@ main:
   - title: "Vitae"
     url: https://isgilman.github.io/assets/PDFs/Gilman_CV.pdf
   - title: "About"
-    url: https://isgilman.github.io/assets/pages/home.md
-  - title: "Sample Posts"
-    url: https://isgilman.github.io/pages/home.md
+    url: https://isgilman.github.io/assets/_pages/about.md
+  #- title: "Sample Posts"
+  #  url: https://isgilman.github.io/pages/home.md
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
