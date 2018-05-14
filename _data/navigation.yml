@@ -3,7 +3,7 @@ main:
   - title: "Vitae"
     url: /assets/PDFs/Gilman_CV.pdf
   - title: "About"
-    url: /docs/_pages/about.md
+    url:  /About/
   #- title: "Sample Posts"
   #  url: https://isgilman.github.io/pages/home.md
   # - title: "Sample Collections"
