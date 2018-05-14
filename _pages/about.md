@@ -1,23 +1,22 @@
 ---
-title: "Sample Page"
-permalink: /about/
-
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+layout: single
+title: "About"
+permalink: /About/
+comments: true
+author_profile: true
 ---
 
-This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 
-> Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi'a coladas. (And gettin' caught in the rain.)
+I am a 5th year PhD student at the Department of Biostatistics, Yale University. My research concentration is designing and developing statistical and machine learning tools for analysis of genomic datasets. I am interested in learning more about state-of-the-art Learning methods, and applying them to solve real world problems.
 
-...or something like this:
+这是曾立的个人主页。   
+2013年起我到康州New Haven村就读 Yale 生物统计 PhD，主要研究方向是分析基因数据的统计学习和机器学习方法。对Statistical Learning的理论，实现及应用有浓厚兴趣。       
+热爱运动，在篮球，羽毛球，网球都展现出天赋。喜欢观看足球，但尝试不多。唯一坚持下来的运动是排球，以防守见长，在 Yale 打球曾引得对手惊呼 "He is everywhere!"
 
-> The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.
 
-You should probably delete this page and create new pages for your content. Have fun!
+### Education:
+- **Yale University** (2013 - present)   
+  Ph.D of Biostatistics
+- **Peking University** (2009 - 2013)   
+  Bachelor of Mathematics
+

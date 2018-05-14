@@ -7,20 +7,20 @@
 
 # Site Settings
 locale                   : "en"
-#title                    : "Ian S Gilman"
+title                    : "Li Zeng"
 title_separator          : "-"
-name                     : "Ian S Gilman"
-description              : "I am an evolutionary biologist and botanist in the [Edward's Lab](http://edwardslab.org) at Yale University. I'm interested in the evolution of CAM photosynthesis and its different forms."
-url                      : "https://isgilman.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Li Zeng"
+description              : "Powered by Jekyll and minimal-mistakes theme"
+url                      : #"https://zengliX.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "isgilman/isgilman.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/OR_coast.JPG" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "zengliX/zengliX.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : #"zengliX" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -35,7 +35,7 @@ staticman:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  path                   : "docs/_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -70,42 +70,41 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-91561805-1"
 
 
 # Site Author
 author:
-  format           : "md"
-  name             : "Ian Gilman"
-  avatar           : "/assets/images/Puffball.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an evolutionary biologist and botanist in the [Edward's Lab](http://edwardslab.org) at Yale University. I'm interested in the evolution of CAM photosynthesis and its different forms."
-  location         : "Yale University"
-  email            : "ian.gilman@yale.edu"
+  name             : "Li Zeng"
+  avatar           : "/others/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Biostatistics Ph.D at Yale"
+  location         : "New Haven, CT"
+  email            : "li.zeng@yale.edu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://www.flickr.com/gp/142736247@N08/8Yvr2L"
+  flickr           :
   facebook         :
   foursquare       :
-  github           : "isgilman"
+  github           : "zengliX"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "li-zeng-154a2551?trk=nav_responsive_tab_profile_pic"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "6317380/ian-gilman" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          :
 
 
 # Reading Files
@@ -242,8 +241,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true # true
       share: true
       related: true
-
-remote_theme: "mmistakes/minimal-mistakes"
