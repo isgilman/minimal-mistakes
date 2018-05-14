@@ -12,7 +12,7 @@ header:
   overlay_image: "/assets/images/OR_coast.JPG"
 title_separator          : "-"
 name                     : "Ian S Gilman"
-description              : "Evolutionary biologist and botanist"
+description              : "I am an evolutionary biologist and botanist in the [Edward's Lab](http://edwardslab.org) at Yale University. I'm interested in the evolution of CAM photosynthesis and its different forms."
 url                      : "https://isgilman.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "isgilman/isgilman.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
