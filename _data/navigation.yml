@@ -4,11 +4,16 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url:  /About/
+<<<<<<< HEAD
   - title: "Blogs"
     url: /Blogs/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
+=======
+  #- title: "Sample Posts"
+  #  url: https://isgilman.github.io/pages/home.md
+>>>>>>> 3c43afdada7d6f0620197554406493d2fc9bac9e
   # - title: "Sample Collections"
   #   url: /collection-archive/
   #- title: "Tags"

@@ -1,4 +1,10 @@
+layout: single
+title: "About"
+permalink: /About/
+comments: true
+author_profile: true
 ---
+<<<<<<< HEAD
 layout: single
 title: "About"
 permalink: /About/
@@ -20,3 +26,8 @@ I am a 5th year PhD student at the Department of Biostatistics, Yale University.
 - **Peking University** (2009 - 2013)   
   Bachelor of Mathematics
 
+=======
+
+
+**Foo bar**
+>>>>>>> 3c43afdada7d6f0620197554406493d2fc9bac9e
