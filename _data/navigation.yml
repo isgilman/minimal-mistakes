@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Vitae"
-    url: https://isgilman.github.io/assets/PDFs/Gilman_CV.pdf
+    url: /assets/PDFs/Gilman_CV.pdf
   - title: "About"
     url: /docs/_pages/about.md
   #- title: "Sample Posts"
