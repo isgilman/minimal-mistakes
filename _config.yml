@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Ian Gilman"
   avatar           : "/assets/images/Puffball.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student, evolutionary biologist and botanist"
+  bio              : "I am an evolutionary biologist and botanist in the [Edward's Lab](http://edwardslab.org) at Yale University. I'm interested in the evolution of CAM photosynthesis and its different forms."
   location         : "Yale University"
   email            : "ian.gilman@yale.edu"
   uri              :
